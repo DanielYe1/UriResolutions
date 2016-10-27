@@ -2,26 +2,8 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Beginner/1962.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Beginner/1865.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Beginner/1930.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Beginner/1866.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Beginner/1933.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Beginner/1858.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Beginner/1985.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Beginner/1828.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Beginner/1837.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Beginner/1924.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Beginner/1864.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ad-Hoc/2090.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Math/1028.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Paradigms/2243.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DataStructures/1110.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DataStructures/1451.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DataStructures/1527.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DataStructures/1215.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DataStructures/1088.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DataStructures/1023.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">

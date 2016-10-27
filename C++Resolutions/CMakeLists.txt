@@ -22,5 +22,12 @@ set(SOURCE_FILES
         #Beginner/1865.cpp
         #Beginner/1866.cpp
         #Math/1028.cpp
-        Paradigms/2243.cpp)
+        #Paradigms/2243.cpp
+        #DataStructures/1261.cpp
+        #DataStructures/1449.cpp
+        #Strings/1243.cpp
+        #DataStructures/2091.cpp
+        #Ad-Hoc/1136.cpp
+        #Ad-Hoc/2090.cpp
+        )
 add_executable(C__Resolutions ${SOURCE_FILES})
