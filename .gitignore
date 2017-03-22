@@ -40,7 +40,7 @@
 # User-specific stuff:
 .idea/workspace.xml
 .idea/tasks.xml
-
+.*/idea/
 # Sensitive or high-churn files:
 .idea/dataSources.ids
 .idea/dataSources.xml
@@ -167,6 +167,7 @@ fabric.properties
 
 # IntelliJ
 /out/
+.idea
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
