@@ -299,4 +299,4 @@ ENV/
 hs_err_pid*
 
 
-/CMakeLists.txt
+*/CMakeLists.txt
